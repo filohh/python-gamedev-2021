@@ -69,5 +69,4 @@ We will be using virtual environment in Python.  The instruction to setup your w
 
 <hr/>
 
-
-Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
+Anfilofio Coutinho dos Santos Filho
